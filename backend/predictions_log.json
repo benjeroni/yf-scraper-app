@@ -1,0 +1,2333 @@
+[
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T20:58:41.633663",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:41.806783",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:41.821280",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:41.969241",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:42.078343",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:42.102903",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:42.334911",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:42.445304",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:42.460994",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:42.559904",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:42.630262",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:42.682538",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:42.761519",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:42.862737",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:43.018256",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:43.115989",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:43.225505",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:43.287371",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:43.441175",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:43.621592",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "RDDT",
+    "timestamp": "2025-12-01T20:58:47.698233",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 181.61385439161677
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 180.86317593464628
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 180.11249747755937
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 179.36181902058888
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 178.61114056350198
+      }
+    ]
+  },
+  {
+    "ticker": "RDDT",
+    "timestamp": "2025-12-01T20:58:47.802897",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 181.61385439161677
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 180.86317593464628
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 180.11249747755937
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 179.36181902058888
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 178.61114056350198
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T20:58:47.989162",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T20:58:48.120449",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:48.301270",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T20:58:48.588224",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:48.611996",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:48.932017",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T20:58:49.015274",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:49.241764",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T20:58:49.528541",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T20:58:49.806222",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T20:59:12.780474",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "RDDT",
+    "timestamp": "2025-12-01T21:01:09.708697",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 181.61385439161677
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 180.86317593464628
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 180.11249747755937
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 179.36181902058888
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 178.61114056350198
+      }
+    ]
+  },
+  {
+    "ticker": "RDDT",
+    "timestamp": "2025-12-01T21:01:09.778047",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 181.61385439161677
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 180.86317593464628
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 180.11249747755937
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 179.36181902058888
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 178.61114056350198
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:01:10.293881",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:01:10.371811",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T21:01:10.725759",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "TQQQ",
+    "timestamp": "2025-12-01T21:01:10.878495",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 54.91108966238971
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 54.967240979211056
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 55.023392296039674
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 55.07954361286829
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 55.135694929689635
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T21:01:11.204683",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "NVDA",
+    "timestamp": "2025-12-01T21:01:11.270327",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 191.5375377714372
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 191.68769580878143
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 191.83785384612565
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 191.98801188346988
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 192.13816992082866
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T21:01:11.590445",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "timestamp": "2025-12-01T21:01:11.765038",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 304.6652231729822
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 305.5419423735002
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 306.4186615740182
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 307.29538077453617
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 308.17209997505415
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T21:01:12.170937",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "SPY",
+    "timestamp": "2025-12-01T21:01:12.217000",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 679.2064264826477
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 679.4531526422361
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 679.6998788018536
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 679.9466049614421
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 680.1933311210596
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:01:23.934897",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:12.385146",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:14.704856",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:18.303498",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:20.624938",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:21.508518",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:29.380433",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  },
+  {
+    "ticker": "AAPL",
+    "timestamp": "2025-12-01T21:02:34.652006",
+    "model": "LinearRegression_Baseline",
+    "forecast": [
+      {
+        "Date": "2025-12-02",
+        "Predicted_Close": 281.16721711313585
+      },
+      {
+        "Date": "2025-12-03",
+        "Predicted_Close": 281.6740420641145
+      },
+      {
+        "Date": "2025-12-04",
+        "Predicted_Close": 282.1808670150931
+      },
+      {
+        "Date": "2025-12-05",
+        "Predicted_Close": 282.6876919660717
+      },
+      {
+        "Date": "2025-12-06",
+        "Predicted_Close": 283.19451691699214
+      },
+      {
+        "Date": "2025-12-07",
+        "Predicted_Close": 283.70134186797077
+      },
+      {
+        "Date": "2025-12-08",
+        "Predicted_Close": 284.2081668189494
+      },
+      {
+        "Date": "2025-12-09",
+        "Predicted_Close": 284.714991769928
+      },
+      {
+        "Date": "2025-12-10",
+        "Predicted_Close": 285.22181672084844
+      },
+      {
+        "Date": "2025-12-11",
+        "Predicted_Close": 285.72864167182706
+      },
+      {
+        "Date": "2025-12-12",
+        "Predicted_Close": 286.2354666228057
+      },
+      {
+        "Date": "2025-12-13",
+        "Predicted_Close": 286.7422915737261
+      },
+      {
+        "Date": "2025-12-14",
+        "Predicted_Close": 287.24911652470473
+      },
+      {
+        "Date": "2025-12-15",
+        "Predicted_Close": 287.75594147568336
+      },
+      {
+        "Date": "2025-12-16",
+        "Predicted_Close": 288.262766426662
+      },
+      {
+        "Date": "2025-12-17",
+        "Predicted_Close": 288.7695913775824
+      },
+      {
+        "Date": "2025-12-18",
+        "Predicted_Close": 289.276416328561
+      },
+      {
+        "Date": "2025-12-19",
+        "Predicted_Close": 289.78324127953965
+      },
+      {
+        "Date": "2025-12-20",
+        "Predicted_Close": 290.2900662305183
+      },
+      {
+        "Date": "2025-12-21",
+        "Predicted_Close": 290.7968911814387
+      },
+      {
+        "Date": "2025-12-22",
+        "Predicted_Close": 291.3037161324173
+      },
+      {
+        "Date": "2025-12-23",
+        "Predicted_Close": 291.81054108339595
+      },
+      {
+        "Date": "2025-12-24",
+        "Predicted_Close": 292.3173660343746
+      },
+      {
+        "Date": "2025-12-25",
+        "Predicted_Close": 292.824190985295
+      },
+      {
+        "Date": "2025-12-26",
+        "Predicted_Close": 293.3310159362736
+      },
+      {
+        "Date": "2025-12-27",
+        "Predicted_Close": 293.83784088725224
+      },
+      {
+        "Date": "2025-12-28",
+        "Predicted_Close": 294.34466583817266
+      },
+      {
+        "Date": "2025-12-29",
+        "Predicted_Close": 294.8514907891513
+      },
+      {
+        "Date": "2025-12-30",
+        "Predicted_Close": 295.3583157401299
+      },
+      {
+        "Date": "2025-12-31",
+        "Predicted_Close": 295.86514069110854
+      }
+    ]
+  }
+]

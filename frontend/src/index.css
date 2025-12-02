@@ -1,0 +1,165 @@
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: #1e1e1e;
+  /* Almost Black */
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Yahoo Finance / Stark Theme Colors */
+  --primary: #000000;
+  /* Black for primary actions/text */
+  --secondary: #5e5e5e;
+  /* Dark Gray for secondary text */
+  --border: #e0e0e0;
+  /* Light Gray for borders */
+  --bg-hover: #f5f5f5;
+  /* Very Light Gray for hovers */
+
+  --up-color: #008000;
+  /* Green */
+  --down-color: #d0021b;
+  /* Red */
+  --neutral-color: #000000;
+
+  --card-bg: #ffffff;
+  --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: flex-start;
+  /* Align top */
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #ffffff;
+}
+
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+  text-align: left;
+  /* Reset center align */
+}
+
+.card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  /* Slightly sharper corners */
+  padding: 1.5rem;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  color: #000;
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  /* Sharper */
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+  width: 100%;
+}
+
+input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 1px var(--primary);
+}
+
+button {
+  border-radius: 20px;
+  /* Pill shape often used in finance apps or keep it square */
+  border: 1px solid transparent;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: inherit;
+  background-color: var(--primary);
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button.secondary {
+  background-color: transparent;
+  color: var(--primary);
+  border: 1px solid var(--border);
+}
+
+button.secondary:hover {
+  background-color: var(--bg-hover);
+}
+
+h1,
+h2,
+h3 {
+  color: #000;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+  letter-spacing: -0.05rem;
+}
+
+.text-up {
+  color: var(--up-color);
+}
+
+.text-down {
+  color: var(--down-color);
+}
+
+/* Utility for grid layout */
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+@media (min-width: 768px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+.grid {
+  display: grid;
+}
