@@ -11,6 +11,13 @@ from backend.services.prediction import train_and_predict
 from backend.services.tracker import save_prediction, calculate_accuracy, load_predictions
 from backend.services.alerts import save_alert, get_alert, delete_alert, TradeAlert
 
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+import os
+import sys
+
+# ... imports ...
+
 app = FastAPI(title="Yahoo Finance Scraper & Predictor")
 
 app.add_middleware(
@@ -21,9 +28,25 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Determine path to static files (works for dev and PyInstaller)
+if getattr(sys, 'frozen', False):
+    # Running as compiled executable
+    base_path = sys._MEIPASS
+else:
+    # Running in development
+    base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+static_dir = os.path.join(base_path, "frontend", "dist")
+
+# Only mount if directory exists (it might not in pure backend dev mode)
+if os.path.exists(static_dir):
+    app.mount("/assets", StaticFiles(directory=os.path.join(static_dir, "assets")), name="assets")
+
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Yahoo Finance Scraper API"}
+    if os.path.exists(os.path.join(static_dir, "index.html")):
+        return FileResponse(os.path.join(static_dir, "index.html"))
+    return {"message": "Welcome to the Yahoo Finance Scraper API (Frontend not found)"}
 
 @app.get("/api/stock/{ticker}", response_model=StockData)
 def get_stock(ticker: str, period: str = "1y"):
